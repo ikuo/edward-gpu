@@ -2,6 +2,10 @@
 
 A Dockerfile for [Edward](http://edwardlib.org/) with GPU.
 
+## Requirements
+
+- [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
+
 ## Running
 
 ```
